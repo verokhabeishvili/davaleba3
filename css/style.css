@@ -31,9 +31,46 @@
 	margin-left: 30px;}
 
 
+
 .divider { width: 1px;
 	height: 26.67px;
 	background-color: #363E97;
 	display: inline-block;
 	margin-right: 30px;
 	margin-left: 36px;}
+
+
+div {margin-top: 50px;
+	margin-bottom: 30px;
+	margin-left: 30px;}
+
+.ricxviclass { background-color: #3D58A6; 
+				color: #FFFFFF;
+				width: 56px;
+				height: 56px;
+				font-size: 56px;
+				margin-left: 30px;
+			font-family: 'BPG Nino Mtavruli'}
+
+.tveclass { margin-top: 6px;
+	 font-size: 22px;
+    color: #3D58A6;
+    margin-bottom: 12px;
+font-family: 'BPG Nino Mtavruli'}
+
+ .hclass  {margin: 23px 0;
+ 	padding-left: 30px;
+    font-size: 20;
+    color: #000000;
+	font-family: 'BPG Nino Mtavruli';
+	padding-top: 20px;}
+
+ .articleimage {width: 270px;
+ 					height: 210px;
+ 					padding-left: 30px}
+
+.textclass { margin: 36px ;
+    		width: 1124px;
+    		font-size: 16px;
+    		margin-left: 30px;
+    		font-family: BPG Ingiri Arial'; } 
